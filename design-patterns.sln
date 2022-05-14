@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{35BB2470-0BD4-4CAD-BCA8-63562FFBE583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creational.factoryMethod", "src\Creational.FactoryMethod\creational.factoryMethod.csproj", "{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.FactoryMethod", "src\Creational.FactoryMethod\Creational.FactoryMethod.csproj", "{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
