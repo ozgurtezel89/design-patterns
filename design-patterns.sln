@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creational.factoryMethod", "src\Creational.FactoryMethod\creational.factoryMethod.csproj", "{F487C98D-6253-431C-91EA-C694570CF69F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{35BB2470-0BD4-4CAD-BCA8-63562FFBE583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creational.factoryMethod", "src\Creational.FactoryMethod\creational.factoryMethod.csproj", "{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,8 +44,21 @@ Global
 		{F487C98D-6253-431C-91EA-C694570CF69F}.Release|x64.Build.0 = Release|Any CPU
 		{F487C98D-6253-431C-91EA-C694570CF69F}.Release|x86.ActiveCfg = Release|Any CPU
 		{F487C98D-6253-431C-91EA-C694570CF69F}.Release|x86.Build.0 = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|x64.Build.0 = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Debug|x86.Build.0 = Debug|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|x64.ActiveCfg = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|x64.Build.0 = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|x86.ActiveCfg = Release|Any CPU
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F487C98D-6253-431C-91EA-C694570CF69F} = {E638E607-D17A-45D7-96CE-BAEDC4490746}
+		{7E7E3F15-2220-45CC-AB0E-6ADF57AD6540} = {35BB2470-0BD4-4CAD-BCA8-63562FFBE583}
 	EndGlobalSection
 EndGlobal
